@@ -1,0 +1,30 @@
+body {
+  background-color: #eee;
+}
+.wrapper{
+	width: 1000px;
+	height: auto;
+	margin-left: 170px;
+}
+.menu{
+	width: 100%;
+	height: 80px;
+	background-color: #27ae60;
+	margin-bottom: 10px;
+}
+.footer{
+	width: 100%;
+	height:60px;
+	background-color: #27ae60;
+}
+.form-published {
+  max-width: 500px;
+  padding: 15px;
+  margin: 0 auto;
+}
+.form-published .checkbox {
+  margin-bottom: 10px;
+}
+.form-published .checkbox {
+  font-weight: normal;
+}
